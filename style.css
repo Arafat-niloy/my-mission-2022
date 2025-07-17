@@ -36,3 +36,35 @@
   font-weight: 400;
   font-style: normal;
 }
+
+
+*{
+    margin: 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* color change at one click */
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+}
+
+body{
+    font-family: Poppins;
+}
+
+header{
+
+}
+
+main{
+
+    max-width: 1128px;
+    max-resolution: 0 auto;
+
+}
+
+footer{
+
+}
